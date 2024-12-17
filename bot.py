@@ -4,7 +4,7 @@ from aiogram.types import Message, FSInputFile, InlineKeyboardMarkup, InlineKeyb
 from aiogram.filters import Command
 from aiogram.fsm.storage.memory import MemoryStorage
 
-API_TOKEN = "6596611014:AAFZMqGz_KrCCBqFkdHyhleRcvb1wrSAU1U"
+API_TOKEN = ""
 
 logging.basicConfig(level=logging.INFO)
 
